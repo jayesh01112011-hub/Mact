@@ -1,2 +1,2 @@
-# Mac-Chats
+# Mact
 Building a communication app
